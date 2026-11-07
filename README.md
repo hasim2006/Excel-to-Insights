@@ -1,10 +1,10 @@
-# 🚀 Excel to Insights (NexusBI)
+# Excel to Insights (NexusBI)
 
 An autonomous enterprise Business Intelligence (BI) and AI analytics engine that transforms raw spreadsheets (`.xlsx`, `.xls`, `.csv`) into interactive, holographic dashboards, predictive forecasts, and executive-ready reports in real-time.
 
 ---
 
-## ✨ Features
+## Features
 
 - **Multi-Model AI Engine**:
   - Connect and route between **Google Gemini (Gemini 2.5 Flash / 1.5 Pro)**, **Anthropic Claude 3.5 Sonnet**, **OpenAI GPT-4o / o1**, **DeepSeek V3 / R1**, and local **Ollama** clusters.
@@ -35,7 +35,7 @@ An autonomous enterprise Business Intelligence (BI) and AI analytics engine that
 
 ---
 
-## 🛠️ Tech Stack
+## ️ Tech Stack
 
 - **Frontend**: React 19, TypeScript, Vite
 - **Styling**: Tailwind CSS, Glassmorphism & Cyber Dark UI
@@ -46,7 +46,7 @@ An autonomous enterprise Business Intelligence (BI) and AI analytics engine that
 
 ---
 
-## 🏁 Quick Start
+## Quick Start
 
 ### Prerequisites
 - [Node.js](https://nodejs.org/) (v18 or higher)
@@ -80,7 +80,7 @@ An autonomous enterprise Business Intelligence (BI) and AI analytics engine that
 
 ---
 
-## 📦 Scripts
+## Scripts
 
 - `npm run dev` - Starts the local development server at `http://localhost:3000`
 - `npm run lint` - Runs TypeScript type checking (`tsc --noEmit`)
@@ -89,6 +89,6 @@ An autonomous enterprise Business Intelligence (BI) and AI analytics engine that
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
