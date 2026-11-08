@@ -1,5 +1,5 @@
 {
-  "name": "react-example",
+  "name": "excel-to-insights",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -35,5 +35,8 @@
     "tsx": "^4.21.0",
     "typescript": "~5.8.2",
     "vite": "^6.2.3"
-  }
+  },
+  "description": "Automated tabular data analytics engine converting spreadsheets into actionable charts and business summaries.",
+  "author": "Mohammad Hasim <hasimsaudagar3@gmail.com>",
+  "homepage": "https://github.com/hasim2006/Excel-to-Insights"
 }
